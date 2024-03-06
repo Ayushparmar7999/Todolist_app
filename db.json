@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "572e",
+      "rollno": "22`",
+      "name": "kanha",
+      "city": "bhopal",
+      "fees": "100000"
+    },
+    {
+      "id": "867c",
+      "rollno": "151",
+      "name": "sachin parmar",
+      "city": "mumbai",
+      "fees": "70000"
+    },
+    {
+      "id": "ee7f",
+      "rollno": "152",
+      "name": "ajay parmar",
+      "city": "delhi",
+      "fees": "30000"
+    },
+    {
+      "id": "ebb5",
+      "rollno": "154",
+      "name": "harsh",
+      "city": "vidisha",
+      "fees": "90000"
+    },
+    {
+      "id": "bcec",
+      "rollno": "155",
+      "name": "sumit",
+      "city": "sehore",
+      "fees": "70000"
+    }
+  ]
+}
